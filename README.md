@@ -14,8 +14,7 @@ Here are the types of projects I participated to :
 - Web GUI
 - ERP
 - Performance optimization
-- DevOps (current)
-- Queue simulation and statistical analysis of the performance of a blockchain system (master thesis)
+- DevOps
 
 ## Technologies
 
