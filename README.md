@@ -5,7 +5,7 @@ I work as an independant consultant, and my company is [FITA.DEV](www.fita.dev).
 
 ## Project types
 
-I'm a web developer, and because I like to solve problems by the root, I also had to take quite a few more roles.
+I'm a web developer, and because I like to solve problems by the root, I also had to take on quite a few more roles.
 I work on elicitation, design, architecture, planning and implementation.
 Here are the types of projects I participated to :
 
