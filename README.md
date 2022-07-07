@@ -26,11 +26,11 @@ Here are the technologies I'm profficient with :
 - Jenkins, Github CI, Travis CI
 - Spring Boot
 - OpenShift, Helm, Kubernetes, Docker
-- Linux, sh, regexes
+- Linux, sh
 
 I also worked with:
 
 - Odoo
-- Javascript, NodeJS, Typescript, Python, awk
+- Javascript, NodeJS, Typescript, Python, awk, regex
 - Django
 - Angular 5, VueJS
