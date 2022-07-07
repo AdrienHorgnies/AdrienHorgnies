@@ -1,7 +1,7 @@
 # Senior Java developer
 
 Hi, my name is Adrien Horgnies, and I'm a senior java developer with six years of experience.
-I work as an independant consultant, and my company is [FITA.DEV](www.fita.dev).
+I work as an independant consultant, and my company is [FITA.DEV](https://www.fita.dev).
 
 ## Project types
 
